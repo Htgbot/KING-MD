@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "NAVEED DOGAR"
+      "value": "HTG BOT :)"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -16,20 +16,20 @@
       },
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
-    "required" :false,
-    "value": "false"
+    "required" :true,
+    "value": "true"
       },
     "HEROKU_API_KEY": {
-    "description": "Put HEROKU API KEY",
-     "required" :true
+    "description": "HRKU-3ebd6055-19e2-4b91-96bb-414a2faad4e5",
+     "required" : "HRKU-3ebd6055-19e2-4b91-96bb-414a2faad4e5"
     },
   "HEROKU_APP_NAME": {
     "description": "Put HEROKU APP NAME same as above.",
-     "required" :true
+     "required" :"HTG BOT :)"
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot logo",
-     "value": "https://telegra.ph/file/5541dfe4dc8c2f51e3f02.jpg"
+     "value": "https://raw.githubusercontent.com/Htgbot/OWNER-FOR-BOT/main/PosterMaker_20072022_184127.png"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -42,7 +42,7 @@
      },
    "FAKE_COUNTRY_CODE": {
     "description": "Put the Country Code Name without +",
-     "value": "212",
+     "value": "",
      "required" :false
     },
      "ANTILINK_ACTION": {
@@ -58,7 +58,7 @@
       "CAPTION": {
     "description": "Fill the value your bot caption",
      "required" :false,
-     "value": "© GENERATE BY KING MD"
+     "value": "© GENERATE BY HTG"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -68,7 +68,7 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*KING-MD*"
+	    "value": "*HTG BOT :)*"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -81,10 +81,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxx"
+       "value": "94775475659"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+    "description": "KING-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0dqWkVZM1A1RGZON3ZYWDdFRXA3K09OSzhUM1U3V055b0RQVlVhQnMwST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT3piMHROYTRSSmt2VjE2bnoxWFY0Z3A0MTZPWlZxVEpYMGdDREFUWWhVQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzRW9IQWtpcXVqVlUxWlFyMWxsbGF1N3M5MHdBZ1gxUlJ1U3cyZWJhcUdRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJuTFpMZmF5bGNodWZmalV2ZnV0RnhvNzhZekxHTVVRS2J1UE1uSFlPTlFBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im1FaFI5RmJ0MmZJVHRLdit6WkNndlZwWVVnbkdMOXVzTTR4b01WR0E0bEU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkxaZTlIckxWRnlrZVhFOHhrWmtXN1hJTVlsNHRwbmF4QStWNVFWS0VuaGs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUVWeFFYWkh2V0pEaENZbkhzM25lbTJlRmtqeUxFMmgrNTVid1lHN2IzVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUNXYU5tM3psdkNVaHBQclBzMXRvekJwTitwenk0SlloVHpuc1pPN0RWMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndUcXVrUStnTHgvTktINUJnekpLQnNWUFhIRUc2elpvV0lNbTk0VjcyRmd6T2VpRDVBbGEvZ1hNVjh0Ni8vd25RNHJIVGQ2eUdKZ25qZFVXNGFydGl3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjEyLCJhZHZTZWNyZXRLZXkiOiJSb0ZXc1hocExEU1hXZ2lLOGpTekxlU1FHbml4cTdZZlI4VU1haGVIYWVZPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ2WURLZ2I3UFNGdVFtQ0ZqMk5IOFlBIiwicGhvbmVJZCI6ImEwYThlYTQ0LTE0MjktNDU3ZC1iNWIwLWIxNTZhMGZlOTVlMSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2WDlwRVdQVjZyZzdQZ3hWUklvbDRIb3phK0E9In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkxWd3lrOVM2YnExZU1wQWUwVCt2ZVdJVmcxST0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0wzYXlxc0VFUEdhMXJNR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IklDL3hCWWRiUlk3VTRBako2ZzhTQ0Z1dElPdFpuK3Bjd1VlN0lqdHdoV289IiwiYWNjb3VudFNpZ25hdHVyZSI6IitQK0JpQjhZemwwd3doWkFZbUw0bGFWWWZSbi9RaVdVcFJxWWFaUEMvTVV6ekwzUXRqaVl6UUs5azdCMGx5TGVNM0RhUWtUOUw1bXJoN0p6REJnTURBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJObGg5UXVaTXNkUjZlM0lVM0FIT2xUdjM4YUpxQUZDQnYrc2x2dndvaHM5UTNMS3ZFaWtIZ1NoSFRHWmRoODdSeEJ1b1RpT2JXQnRLZGZSZzMvZHFqQT09In0sIm1lIjp7ImlkIjoiOTQ3NzU0NzU2NTk6M0BzLndoYXRzYXBwLm5ldCJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5NDc3NTQ3NTY1OTozQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlNBdjhRV0hXMFdPMU9BSXllb1BFZ2hiclNEcldaL3FYTUZIdXlJN2NJVnEifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTg5Nzk5NjUsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTjVNIn0="
   },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
@@ -116,11 +116,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "naveeddogar"
+    "value": "htgsticker"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "king-mdbot"
+    "value": "HTGSTICKER"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
